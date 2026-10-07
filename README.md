@@ -47,9 +47,9 @@ Read **CONTRIBUTING.md** before opening a pull request.
 <table>
 <tr>
 <td align='center' width='120px'>
-<a href='https://github.com/7vikfox'>
-<img src='https://github.com/7vikfox.png' width='80px' style='border-radius:50%'><br>
-<sub><b>7vikfox</b></sub>
+<a href='https://github.com/Anii188'>
+<img src='https://avatars.githubusercontent.com/u/338081524?v=4' width='80px' style='border-radius:50%'><br>
+<sub><b>Anirudh</b></sub>
 </a>
 </td>
 <td align='center' width='120px'>
